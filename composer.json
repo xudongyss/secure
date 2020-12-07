@@ -1,0 +1,18 @@
+{
+    "name": "xudongyss/secure",
+    "type": "library",
+    "require": {
+        "phpseclib/phpseclib": "^2.0"
+    },
+    "authors": [
+        {
+            "name": "xudongyss",
+            "email": "xudong.yss@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "XuDongYss\\Secure\\": "src/"
+        }
+    }
+}
